@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "expo-taskbar-blur",
+    "slug": "expo-taskbar-blur",
+    "version": "0.1.0",
+    "description": "My new module",
+    "sdkVersion": "49.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "gfean.expo.taskbarblur"
+    },
+    "ios": {
+      "bundleIdentifier": "gfean.expo.taskbarblur"
+    }
+  }
+}
