@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-taskbar-blur": ["../src/index"],
+      "expo-taskbar-blur/*": ["../src/*"]
+    }
+  }
+}
