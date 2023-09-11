@@ -1,6 +1,6 @@
 {
   "name": "expo-taskbar-blur",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "My new module",
   "main": "build/index.js",
   "types": "build/index.d.ts",
