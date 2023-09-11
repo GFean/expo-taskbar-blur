@@ -17,7 +17,7 @@ when moved to the taskbar, IOS will get blurry.
 To use this package, you have to enable native modules in your expo app, so make sure you run the prebuild script to generate native ios & android directories.
 
 ```bash
-npx expo install expo-taskbar-blur
+npx expo prebuild
 ```
 
 ## Installation

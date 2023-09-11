@@ -1,6 +1,6 @@
 {
   "name": "expo-taskbar-blur",
-  "version": "1.0.1",
+  "version": "1.0.11",
   "description": "Easily blur your Expo and React Native app's content when it's in the task manager to protect your app's privacy.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
