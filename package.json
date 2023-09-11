@@ -1,7 +1,7 @@
 {
   "name": "expo-taskbar-blur",
-  "version": "1.0.0",
-  "description": "My new module",
+  "version": "1.0.1",
+  "description": "Easily blur your Expo and React Native app's content when it's in the task manager to protect your app's privacy.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
@@ -19,8 +19,26 @@
     "react-native",
     "expo",
     "expo-taskbar-blur",
-    "ExpoTaskbarBlur"
-  ],
+    "ExpoTaskbarBlur",
+    "blur",
+    "task-manager",
+    "background",
+    "privacy",
+    "security",
+    "UIVisualEffectView",
+    "window-blur",
+    "app-visibility",
+    "mobile-app-protection",
+    "content-masking",
+    "native-module",
+    "app-content-security",
+    "background-blur",
+    "screen-protection",
+    "app-state",
+    "mobile-app-privacy",
+    "blurred-transition",
+    "inactive-app-state"
+],
   "repository": "https://github.com/GFean/expo-taskbar-blur",
   "bugs": {
     "url": "https://github.com/GFean/issues"
