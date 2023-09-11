@@ -1,6 +1,6 @@
 {
   "name": "expo-taskbar-blur",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "My new module",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -21,13 +21,13 @@
     "expo-taskbar-blur",
     "ExpoTaskbarBlur"
   ],
-  "repository": "https://github.com/GFean",
+  "repository": "https://github.com/GFean/expo-taskbar-blur",
   "bugs": {
     "url": "https://github.com/GFean/issues"
   },
-  "author": "Giorgi Pirtskhalaishvili <giorgio.p@deazydelivery.co.uk> ()",
+  "author": "George Fean <george.fean@gmail.com> ()",
   "license": "MIT",
-  "homepage": "https://github.com/GFean#readme",
+  "homepage": "https://github.com/GFean/expo-taskbar-blur",
   "dependencies": {},
   "devDependencies": {
     "@types/react": "^18.0.25",
